@@ -10,7 +10,7 @@ public class Lab086 {
 //           -----
 //            1 - R
 
-        int num = 11;
+        int num = 2;
         if(num%2 == 0){
             System.out.println("Even");
         }else{
